@@ -1,0 +1,4 @@
+statsmodels==0.13.2
+sklearn
+plotly==5.10.0
+plotly
